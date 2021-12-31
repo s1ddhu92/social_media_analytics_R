@@ -13,7 +13,7 @@ library(openssl)
 library(httpuv)
 library(base64enc)
 library(tidytext)
-#end points for OAuth Open authorization
+
 
 api_key <- "XXXXX"
 api_secret <- "XXXXXX"
